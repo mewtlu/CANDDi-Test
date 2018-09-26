@@ -8,5 +8,7 @@
 
 ## PR Checklist
 
-[ ] - Made to develop
-[ ] - Screenshots attached
+- [ ] Branch name correct format
+- [ ] Ticket link made
+- [ ] Made to develop
+- [ ] Screenshots attached

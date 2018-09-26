@@ -8,5 +8,5 @@
 
 ## PR Checklist
 
-[ ] - Made to develop
-[ ] - Screenshots attached
+- [ ] - Made to develop
+- [ ] - Screenshots attached

@@ -12,3 +12,4 @@
 - [ ] Ticket link made
 - [ ] Made to develop
 - [ ] Screenshots attached
+- [ ] Images minified?

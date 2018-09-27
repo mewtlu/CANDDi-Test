@@ -1,8 +1,8 @@
-## Ticket description
+## Ticket
 
 [CS-](https://canddi.atlassian.net/browse/CS-)
 
-
+**Description:**
 
 ## Images
 

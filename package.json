@@ -1,0 +1,50 @@
+{
+  "name": "canddi.com",
+  "version": "1.0.0",
+  "description": "CANDDi external website",
+  "main": "buildDev.sh",
+  "dependencies": {
+    "grunt": "~1.0.1",
+    "grunt-jekyll": "~0.4.4"
+  },
+  "devDependencies": {
+    "fs-extra": "0.30.0",
+    "fs-finder": "1.8.1",
+    "grunt-bower-concat": "^1.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-csslint": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-htmlmin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.0",
+    "grunt-md5": "^0.1.11",
+    "grunt-mkdir": "^0.1.1",
+    "grunt-open": "^0.2.3",
+    "grunt-purgecss": "git://github.com/Canddi/grunt-purgecss/",
+    "grunt-s3-sync": "^0.4.3",
+    "grunt-smushit": "^2.0.0",
+    "grunt-string-replace": "^1.2.0",
+    "grunt-update-submodules": "^0.4.1",
+    "js-yaml": "^3.8.3",
+    "matchdep": "^1.0.1",
+    "purgecss": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CANDDi/canddi.com.git"
+  },
+  "keywords": [
+    "jekyll"
+  ],
+  "author": "skysteve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CANDDi/canddi.com/issues"
+  },
+  "homepage": "https://github.com/CANDDi/canddi.com"
+}
